@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\bin\Debug\net10.0\DefenseShield.exe
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\bin\Debug\net10.0\DefenseShield.deps.json
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\bin\Debug\net10.0\DefenseShield.runtimeconfig.json
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\bin\Debug\net10.0\DefenseShield.dll
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\bin\Debug\net10.0\DefenseShield.pdb
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\DefenseShield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\DefenseShield.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\DefenseShield.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\DefenseShield.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\DefenseShield.dll
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\refint\DefenseShield.dll
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\DefenseShield.pdb
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\DefenseShield.genruntimeconfig.cache
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\ref\DefenseShield.dll
