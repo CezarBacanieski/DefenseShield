@@ -12,3 +12,4 @@ C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\refint\
 C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\DefenseShield.pdb
 C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\DefenseShield.genruntimeconfig.cache
 C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\ref\DefenseShield.dll
+C:\Users\Dell\source\repos\DefenseShield\DefenseShield\obj\Debug\net10.0\DefenseShield.sourcelink.json
